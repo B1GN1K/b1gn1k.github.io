@@ -147,6 +147,7 @@ config.messages_list = [
 	"Welcome to [Insert Name Here] Networks!",
 	"Testing gamer text 1234567!",
 	"Enjoy!",
+	"Bing bong",
 ]
 
 // Random message order?
