@@ -41,7 +41,7 @@ config.logo_show_info = false
 // Use a video for the background?
 // Otherwise it will use images
 // "true" or "false"
-config.background_use_video = false
+config.background_use_video = true
 
 // Default available videos:
 // "blue_rays.webm"
