@@ -22,10 +22,10 @@ config.logo_use_image = true
 
 // Image filename for the server logo
 // (Place the image file in the images folder)
-config.logo_image = "logo.png"
+config.logo_image = "mountainnetworkslogo.jpg"
 
 // Text to be shown on logo
-config.logo_text = "SleekLoad"
+config.logo_text = "Mountain Networks"
 
 // Use the server's name for the logo
 config.logo_servername = false
