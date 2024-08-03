@@ -41,7 +41,7 @@ config.logo_show_info = false
 // Use a video for the background?
 // Otherwise it will use images
 // "true" or "false"
-config.background_use_video = true
+config.background_use_video = false
 
 // Default available videos:
 // "blue_rays.webm"
@@ -51,7 +51,7 @@ config.background_use_video = true
 // You can add your own video backgrounds
 // Just make sure they are using webm VP8 format
 // (Place the video file in the backgrounds/videos folder)
-config.background_video = "purple_blue_rays.webm"
+config.background_video = "blue_rays.webm"
 
 // (Image-background only)
 // Enable map-based background image?
@@ -144,15 +144,19 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to [Insert Name Here] Networks!",
+	"Welcome to Mountain Networks!",
 	"Testing gamer text 1234567!",
-	"Enjoy!",
 	"Bing bong",
+	"I met garry once. Cool guy!",
+	"Try a fading door!",
+	"Jerry's mod!",
+	"Splash text",
+	"Error 404",
 ]
 
 // Random message order?
 // "true" or "false"
-config.messages_random_order = false
+config.messages_random_order = true
 
 // Delay between message changes
 // in milliseconds
