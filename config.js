@@ -187,7 +187,7 @@ config.messages_list = [
 	"Minecraft!",
 	"Finishing loading...",
 	"Bring me a smoothie",
-	"Approved by Tommy",
+	"Approved by Tommy!",
 	"/advert raid",
 	"Sheep shop",
 	"Based and red-pilled",
@@ -223,7 +223,7 @@ config.messages_list = [
 	"blastdoor001b",
 	"Blue barrels! Love em.",
 	"Hey man... $5 is $5",
-	"Sneaky!",
+	"Be stealthy!",
 	"Established August 2024!",
 	"Nate sends his regards",
 	"jacob1",
@@ -232,8 +232,20 @@ config.messages_list = [
 	"P1ZZA!",
 	"************!",
 	"Behold the horn of Magnus!",
-	
-	
+	"[Redacted]",
+	"Drop it like it's hot!",
+	"Bleep boop... I am a robot... Nah just kiddin'",
+	"XD",
+	"Airplane food... How about it!",
+	"Kendrick Lamar... Big fan!",
+	"Dota 2 > LoL",
+	"Free Thugger!",
+	"RDM... Not cool!",
+	"Only way I'm going out is gunshots and si-reens!",
+	"We hope you enjoy your stay!",
+	"5... 4... Yeah!!!",
+	"abcdefghijklmnopqrstuvwxyz!",
+	"Seriously... Buy Bitcoin!",
 	
 	
 ]
