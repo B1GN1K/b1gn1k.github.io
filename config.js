@@ -152,6 +152,19 @@ config.messages_list = [
 	"Jerry's mod!",
 	"Splash text",
 	"Error 404",
+	"Minecraft!",
+	"Finishing loading...",
+	"Bring me a smoothie",
+	"Tommy approved",
+	"/advert raid",
+	"Sheep shop!",
+	"Based and red-pilled",
+	"Stay out of the sewers!",
+	"Jorkin it",
+	"Smoking mid",
+	"I'd grab a drink if I were you",
+	
+	
 ]
 
 // Random message order?
