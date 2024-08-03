@@ -75,7 +75,7 @@ config.background_images = [
 // (Image-background only)
 // Random background images order?
 // "true" or "false"
-config.background_images_random_order = true
+config.background_images_random_order = false
 
 // (Image-background only)
 // Delay between background images changes
