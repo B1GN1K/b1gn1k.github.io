@@ -125,6 +125,38 @@ config.music_playlist = [
 		name: "prodbybignik - DRiFT [soundcloud.com/prodbybignik]",
 		file: "drift130.ogg",
 	},
+	{
+		name: "prodbybignik - BREATHE [soundcloud.com/prodbybignik]",
+		file: "breathe160.ogg",
+	},
+	{
+		name: "prodbybignik - STARGAZiNG [soundcloud.com/prodbybignik]",
+		file: "stargazing130.ogg",
+	},
+	{
+		name: "prodbybignik - OUTSiDE [soundcloud.com/prodbybignik]",
+		file: "outside145.ogg",
+	},
+	{
+		name: "prodbybignik - BEEF [soundcloud.com/prodbybignik]",
+		file: "beef175.ogg",
+	},
+	{
+		name: "prodbybignik - HOLD ON [soundcloud.com/prodbybignik]",
+		file: "holdon117.ogg",
+	},
+	{
+		name: "prodbybignik - PRiME [soundcloud.com/prodbybignik]",
+		file: "prime145.ogg",
+	},
+	{
+		name: "prodbybignik - LA COSA NOSTRA [soundcloud.com/prodbybignik]",
+		file: "lacosanostra164.ogg",
+	},
+	{
+		name: "prodbybignik - MAYBACH [soundcloud.com/prodbybignik]",
+		file: "maybach184.ogg",
+	},
 ]
 
 // Random music order?
