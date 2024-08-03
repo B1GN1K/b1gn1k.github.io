@@ -198,7 +198,7 @@ config.messages_list = [
 	"CS > Valorant",
 	"Nice.",
 	"Buy Bitcoin!",
-	"Watch out! It's lurking!!!",
+	"Watch out! It's lurking!",
 	"Any second now...",
 	"I'm gonna ride this bat out of hell like a bat out of hell!",
 	"Don't say it",
@@ -225,6 +225,14 @@ config.messages_list = [
 	"Hey man... $5 is $5",
 	"Sneaky!",
 	"Established August 2024!",
+	"Nate sends his regards",
+	"jacob1",
+	"North Carolina!",
+	"Go nuts",
+	"P1ZZA!",
+	"************!",
+	"Behold the horn of Magnus!",
+	
 	
 	
 	
@@ -236,11 +244,11 @@ config.messages_random_order = true
 
 // Delay between message changes
 // in milliseconds
-config.messages_delay = 5000
+config.messages_delay = 3600
 
 // Messages fade duration
 // in milliseconds
-config.messages_fade_duration = 1000
+config.messages_fade_duration = 600
 
 // Show errors inside Garry's Mod?
 // Can be useful for finding errors
