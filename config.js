@@ -22,7 +22,7 @@ config.logo_use_image = true
 
 // Image filename for the server logo
 // (Place the image file in the images folder)
-config.logo_image = "file1.png"
+config.logo_image = "file2.png"
 
 // Text to be shown on logo
 config.logo_text = "Mountain Networks"
